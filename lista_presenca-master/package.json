@@ -1,0 +1,21 @@
+{
+  "name": "reactapp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "node": "^17.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.12",
+    "@vitejs/plugin-react": "^1.0.7",
+    "typescript": "^4.7.3",
+    "vite": "^2.8.0"
+  }
+}
